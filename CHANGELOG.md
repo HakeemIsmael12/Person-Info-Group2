@@ -1,7 +1,2 @@
-name = input("Name? ")
-print("Hello" + name)
-age = input ("Age? ")  
-addr = input("City? ")
-print(name + " lives in " + addr)
-year = 2026 - int(13)
-print("Born in:  " + str(year))
+### v1.0.0 - [Date} - Added name input.
+(@User)
